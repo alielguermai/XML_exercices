@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="calcul">calcul</string>
+    <string name="entrer_age">Entrer age :</string>
+</resources>
